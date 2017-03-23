@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SistemaEntregasAtividades.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/estilo.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="grid_4">
+                <a href="home.aspx" class="logo">
+                   <img src="imagens/logo-header.png" title="unip" alt="unip"/>
+                 </a>
+            </div><!-- grid_4 -->
+
+            <div class="grid_8">
+                <nav>
+                    <ul id="lavalamp">
+                        <li><a href="home.aspx">Home</a></li>
+                        <li><a href="contato.aspx">Contato</a></li>
+                    </ul>
+                </nav>
+            </div><!-- grid_8 -->
+         </div><!-- container -->
+    </header>
+    
+    <section>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </section>
+    
+    <footer>
+       <div class=".container">
+           <div class="politica grid_7">
+               <p>2016 Politica de privacidade</p>
+           </div>
+        </div>
+    </footer>
+
+</body>
+</html>

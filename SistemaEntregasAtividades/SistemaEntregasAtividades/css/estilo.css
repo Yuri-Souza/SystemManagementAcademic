@@ -1,0 +1,195 @@
+/*RESET
+--------------------------------*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{text-decoration: none;}
+
+b,
+strong {font-weight: bold;}
+
+o,
+ul {list-style: none;}
+
+/*Configuração do HTML
+    ------------------------------*/
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/*GERAL
+---------------------------------*/
+body {min-width: 960px;
+       margin: 0 0 0px; /* altura do seu footer */
+}
+
+.container {
+	margin: 0 auto;
+	width: 960px;
+}
+
+/*Grid
+--------------------------------*/
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12{
+	display: inline;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.grid_1{width: 60px;}
+.grid_2{width: 140px;}
+.grid_3{width: 220px;}
+.grid_4{width: 300px;}
+.grid_5{width: 380px;}
+.grid_6{width: 460px;}
+.grid_7{width: 540px;}
+.grid_8{width: 620px;}
+.grid_9{width: 700px;}
+.grid_10{width: 780px;}
+.grid_11{width: 860px;}
+.grid_12{width: 940px;}
+
+
+
+/*HEADER
+--------------------------------------------*/
+header{
+	width: 100%;
+	height: 145px;
+	background: #CDC9C9;
+	float: left;
+
+}
+
+.logo{
+	display: block;
+	margin-top: 50px;
+}
+
+nav{
+	width: 100%;
+	float: left;
+	margin-top: 60px;
+	position: relative;
+}
+
+nav ul {
+	width: auto;
+	float: right;
+}
+
+nav ul li{
+	float: left;
+	padding-right: 15px;
+	position: relative;
+}
+
+nav ul li a{
+	font-family: 'quicksandlight';
+	font-size: 15pt;
+	color: black;
+}
+
+/*Estilizando a primeira ancora "Home" */
+#lavalamp li:nth-child(1):hover ~ span,
+#lavalamp span.active-home{
+	left: 200px;
+	width: 98px;
+}
+/*Estilizando a quarta ancora "Contato" */
+#lavalamp li:nth-child(4):hover ~ span,
+#lavalamp span.active-contato{
+	left: 525px;
+	width: 85px;
+}
+
+/*FOOTER
+_______________________________*/
+footer{
+	position:fixed;
+    bottom: 0px; 
+    width: 100%; 
+    height: 60px; 
+	background: #CDC9C9;
+	
+    
+}
+
+.logo{
+	margin-top: 40px;
+}
+
+.logo a{
+	display: block;
+}
+
+.politica{
+	margin-top: 60px;
+}
+
+.politica p{
+	font-family: 'quicksand';
+	font-size: 12pt;
+}
+
+.redes{
+	margin-top: 50px;
+	text-align: right;
+}
+
+/*TRABALHOS
+----------------------------------*/
+
+.trabalhos,
+.trabalhos ul{
+	width: 100%;
+	float: left;
+}
+/*FORMATAÇÃO DO FORMULÁRIO DE ENTREGA
+------------------------------------*/
+.frmEntrega{
+    border-radius:20px;
+    border-style:hidden;
+    background-color:#CDC9C9;
+    position:absolute;
+    top: 200px;
+    left: 400px;
+    width: 600px;
+    bottom:150px;
+}
+
+.frmEntrega h1{
+    padding-top:20px;
+    text-align:center;
+}
+
+.frmEntrega ul{
+
+}
+
+.preenchimento{
+     text-align:center;
+     line-height:40px;      
+}
+
+.camparquivo{
+
+}
+
+.cambotaoenvio{
+
+}

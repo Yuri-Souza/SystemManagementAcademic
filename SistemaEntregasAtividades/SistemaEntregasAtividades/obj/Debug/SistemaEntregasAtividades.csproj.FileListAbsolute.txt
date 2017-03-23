@@ -1,0 +1,66 @@
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\ApplicationInsights.config
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\csc.exe
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\vbc.exe
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\SistemaEntregasAtividades.dll.config
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\SistemaEntregasAtividades.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\SistemaEntregasAtividades.pdb
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.Web.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.Web.xml
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\obj\Debug\SistemaEntregasAtividades.csprojResolveAssemblyReference.cache
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\obj\Debug\SistemaEntregasAtividades.dll
+C:\Users\Yuri\Desktop\PIM\SistemaEntregasAtividades\SistemaEntregasAtividades\obj\Debug\SistemaEntregasAtividades.pdb
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\ApplicationInsights.config
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\csc.exe
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\vbc.exe
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\VBCSCompiler.exe
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\SistemaEntregasAtividades.dll.config
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\SistemaEntregasAtividades.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\SistemaEntregasAtividades.pdb
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.Web.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.Web.xml
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\obj\Debug\SistemaEntregasAtividades.csprojResolveAssemblyReference.cache
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\obj\Debug\SistemaEntregasAtividades.dll
+C:\Users\yurys\OneDrive - UNIP\Unip interativa\4° e 5° Trimestre\PIM VIII\SistemaEntregasAtividades\SistemaEntregasAtividades\obj\Debug\SistemaEntregasAtividades.pdb
